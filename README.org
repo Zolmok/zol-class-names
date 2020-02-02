@@ -10,9 +10,9 @@
 ** Get started
 npm install class-names
 
-import ClassNames from 'class-names';
-
 #+BEGIN_SRC javascript
+import classNames from 'class-names';
+
 // instantiate with no classes, add them later
 const classOne = classNames();
 // or instantiate with some class names
