@@ -8,7 +8,7 @@
 - Remove class by name
 
 ** Get started
-npm install class-names
+npm install zol-class-names
 
 #+BEGIN_SRC javascript
 import classNames from 'class-names';
