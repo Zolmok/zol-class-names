@@ -1,6 +1,6 @@
 {
   "name": "zol-class-names",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easily manage class-names with no duplication",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,5 @@
     "eslint": "^6.8.0",
     "jest": "^25.1.0"
   },
-  "repository": "github:Zolmok/ClassNames"
+  "repository": "github:Zolmok/zol-class-names"
 }
