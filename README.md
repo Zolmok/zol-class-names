@@ -11,7 +11,7 @@
 npm install zol-class-names
 
 ```javascript
-import classNames from 'class-names';
+import classNames from 'zol-class-names';
 
 // instantiate with no classes, add them later
 const classOne = classNames();
