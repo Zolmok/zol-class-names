@@ -1,16 +1,16 @@
 
-* ClassNames: a utility for managing CSS classes.
+# ClassNames: a utility for managing CSS classes.
 
-** Features
-- Add new classes by string or array without having to worry about duplication
-- Remove class by name
-- Modify an existing class
-- Remove class by name
+## Features
+* Add new classes by string or array without having to worry about duplication
+* Remove class by name
+* Modify an existing class
+* Remove class by name
 
-** Get started
+## Get started
 npm install zol-class-names
 
-#+BEGIN_SRC javascript
+```javascript
 import classNames from 'class-names';
 
 // instantiate with no classes, add them later
@@ -27,4 +27,4 @@ classOne.remove('buz');
 classOne.replace('foo', 'fuz');
 // get the complete list of class names
 classOne.get();
-#+END_SRC
+```
