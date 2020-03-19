@@ -4,17 +4,20 @@
   "description": "Easily manage class-names with no duplication",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "postupdates": "npm install && npm audit fix",
+    "test": "jest",
+    "updates": "ncu -u"
   },
   "keywords": [],
   "author": "Ricky Nelson",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/preset-env": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
     "babel-jest": "^25.1.0",
     "eslint": "^6.8.0",
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "npm-check-updates": "^4.0.4"
   },
   "repository": "github:Zolmok/zol-class-names"
 }
