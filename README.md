@@ -5,7 +5,7 @@
 * Add new classes by string or array without having to worry about duplication
 * Remove class by name
 * Modify an existing class
-* Remove class by name
+* Replace class by name
 
 ## Get started
 npm install zol-class-names
