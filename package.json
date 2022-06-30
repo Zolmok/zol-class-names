@@ -14,14 +14,14 @@
   "author": "Ricky Nelson",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.17.9",
-    "@babel/preset-env": "^7.16.11",
-    "babel-jest": "^28.0.2",
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "babel-jest": "^28.1.2",
     "babel-loader": "^8.2.5",
-    "esbuild": "^0.14.38",
-    "eslint": "^8.14.0",
-    "jest": "^28.0.2",
-    "npm-check-updates": "^12.5.9"
+    "esbuild": "^0.14.48",
+    "eslint": "^8.18.0",
+    "jest": "^28.1.2",
+    "npm-check-updates": "^14.1.1"
   },
   "repository": "github:Zolmok/zol-class-names"
 }
