@@ -1,6 +1,6 @@
 {
   "name": "zol-class-names",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Easily manage class-names with no duplication",
   "main": "zol-class-names.bundle.js",
   "scripts": {
