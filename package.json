@@ -1,6 +1,6 @@
 {
   "name": "zol-class-names",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Easily manage class-names with no duplication",
   "main": "zol-class-names.bundle.js",
   "scripts": {
@@ -14,14 +14,14 @@
   "author": "Ricky Nelson",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
-    "babel-jest": "^29.4.3",
+    "babel-jest": "^29.5.0",
     "babel-loader": "^9.1.2",
-    "esbuild": "^0.17.8",
-    "eslint": "^8.34.0",
-    "jest": "^29.4.3",
-    "npm-check-updates": "^16.7.4"
+    "esbuild": "^0.17.14",
+    "eslint": "^8.37.0",
+    "jest": "^29.5.0",
+    "npm-check-updates": "^16.8.2"
   },
   "repository": "github:Zolmok/zol-class-names"
 }
